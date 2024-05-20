@@ -1,0 +1,14 @@
+﻿  TDI.cpp
+C:\WORKSPACES\practicaTDI\Source\TDI.cpp(37,25): warning C4244: 'inicializando': conversión de 'double' a 'C_Matrix::IndexT'; posible pérdida de datos
+C:\WORKSPACES\practicaTDI\Source\TDI.cpp(38,25): warning C4244: 'inicializando': conversión de 'double' a 'C_Matrix::IndexT'; posible pérdida de datos
+C:\WORKSPACES\practicaTDI\Source\TDI.cpp(51,18): warning C4244: '=': conversión de 'double' a 'C_Matrix::IndexT'; posible pérdida de datos
+C:\WORKSPACES\practicaTDI\Source\TDI.cpp(52,18): warning C4244: '=': conversión de 'double' a 'C_Matrix::IndexT'; posible pérdida de datos
+IMtdi_VS2022_Debug.lib(C_Matrix.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_Matrix.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+IMtdi_VS2022_Debug.lib(C_Image.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_Image.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+IMtdi_VS2022_Debug.lib(C_Trace.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_Trace.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+IMtdi_VS2022_Debug.lib(C_File.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_File.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+IMtdi_VS2022_Debug.lib(C_Arguments.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_Arguments.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+IMtdi_VS2022_Debug.lib(C_General.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_General.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+IMtdi_VS2022_Debug.lib(C_Memory.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_Memory.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+IMtdi_VS2022_Debug.lib(C_String.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_String.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+  TDI.vcxproj -> C:\WORKSPACES\practicaTDI\x64\Debug\TDI.exe
